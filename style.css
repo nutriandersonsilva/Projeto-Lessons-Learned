@@ -1,6 +1,7 @@
     body {
     background-color:rgb(253, 251, 251) ;
     margin: 0;
+    
     }
 
     #cabecalho {
@@ -10,4 +11,9 @@
     }
     #titulo {
         text-align: center;
+    }
+    #minha_foto {
+        position: absolute;
+        left: 35%;
+        border-radius: 20px;
     }
