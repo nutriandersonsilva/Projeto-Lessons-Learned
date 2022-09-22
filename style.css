@@ -27,5 +27,18 @@
     #licoes_aprendidas, ol { 
     position: absolute;
     top:50%;
-    left: 20%;
+    left: 22%;
     }
+
+    #segundo {
+        position: absolute;
+        left: 68%;
+        top: 46;
+    }
+
+    #licoes_a_aprender, ul{
+        position: absolute;
+        top:50%;
+        left: 73%;
+        }
+
