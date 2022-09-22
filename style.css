@@ -17,3 +17,15 @@
         left: 35%;
         border-radius: 20px;
     }
+
+    h2{
+    position: absolute;
+    left: 16%;
+    top: 46%;
+    }
+    
+    #licoes_aprendidas, ol { 
+    position: absolute;
+    top:50%;
+    left: 20%;
+    }
