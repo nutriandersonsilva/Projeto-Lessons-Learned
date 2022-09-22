@@ -10,6 +10,7 @@
         width: 100%;
     }
     #titulo {
+       
         text-align: center;
     }
     #minha_foto {
@@ -41,4 +42,14 @@
         top:50%;
         left: 73%;
         }
+    #rodape {
+        position: absolute;
+        left: 46%;
+        top: 90%;
+    }
+
+    a{
+        text-decoration: none;
+        color: black;
+    }
 
