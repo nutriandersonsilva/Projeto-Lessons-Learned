@@ -1,91 +1,92 @@
 body {
-    background-color:rgb(253, 251, 251) ;
-    margin: 0;
-    font-family: montserrat, sans-serif;
-    
+  background-color: rgb(253, 251, 251);
+  margin: 0;
+  font-family: montserrat, sans-serif;
 }
 
+
 #cabecalho {
-        position: fixed;
-        top: 0;
-        width: 100%;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
+
+
 #titulo {
-    background-color: aqua;
-        text-align: center;
+  background-color: aqua;
+  text-align: center;
 }
 
 
 #minha_foto {
-        position: absolute;
-        left: 35%;
-        border-radius: 20px;
+  position: absolute;
+  left: 35%;
+  border-radius: 20px;
 }
 
 
-h2{
-    position: absolute;
-    left: 16%;
-    top: 46%;
+h2 {
+  position: absolute;
+  left: 16%;
+  top: 46%;
 }
-    
 
-#licoes_aprendidas, ol { 
-    position: absolute;
-    top:50%;
-    left: 22%;
+
+#licoes_aprendidas , ol {
+  position: absolute;
+  top: 50%;
+  left: 22%;
 }
 
 
 #segundo {
-        position: absolute;
-        left: 68%;
-        top: 46;
-    }
+  position: absolute;
+  left: 68%;
+  top: 46;
+}
 
 
-#licoes_a_aprender, ul{
-        position: absolute;
-        top:50%;
-        left: 73%;
+#licoes_a_aprender , ul {
+  position: absolute;
+  top: 50%;
+  left: 73%;
 }
 
 
 #rodape {
-        position: absolute;
-        left: 46%;
-        top: 90%;
+  position: absolute;
+  left: 46%;
+  top: 90%;
 }
 
 
-a{
-    text-decoration: none;
-    color: black;
-    background-color: aqua;
+a {
+  text-decoration: none;
+  color: black;
+  background-color: aqua;
 }
 
 
 #texto h1 {
-    font-style: italic;
-    position: absolute;
-    left: 46%;
-    top:46%;
+  font-style: italic;
+  position: absolute;
+  left: 46%;
+  top: 46%;
 }
 
 
-#texto i { 
-    position: absolute;
-    left: 40%;
-    top:53%;
+#texto i {
+  position: absolute;
+  left: 40%;
+  top: 53%;
 }
 
 
 #texto p {
-    position: absolute;
-    left: 39%;
-    top:54%;
-    padding-right: 600px;
-    background-color;
+  position: absolute;
+  left: 39%;
+  top: 54%;
+  padding-right: 600px;
 }
 
 .lado-esquerdo {
