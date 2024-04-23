@@ -48,7 +48,6 @@ h2{
         position: absolute;
         top:50%;
         left: 73%;
-       
 }
 
 
@@ -89,3 +88,16 @@ a{
     background-color;
 }
 
+.lado-esquerdo {
+  color: black;
+}
+
+.lado-direito {
+  color: aliceblue;
+}
+
+article {
+  line-height: 120%;
+  font-family: sans-serif;
+  font-size: medium;
+}
