@@ -22,7 +22,8 @@ O objetivo deste projeto é consolidar e refletir sobre os conhecimentos adquiri
 
 1. Clone o repositório: `git clone git@github.com:nutriandersonsilva/Projeto-Lessons-Learned.git`
 2. Acesse o diretório do projeto: `cd project-lessons-learned`
-3. Abra o arquivo `index.html` no seu navegador ou editor de texto.
+3. Instale as dependências: `npm install`
+4. Abra o arquivo `index.html` no seu navegador ou editor de texto.
 
 ## Contribuições
 
